@@ -1,6 +1,6 @@
 @font-face {
     font-family: "norseBold";
-    src: url(Norse-Bold.otf);
+    src: url(./fonts/Norse-Bold.otf);
 }
 
 body {
@@ -15,7 +15,7 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    background-image: url("./background.avif");
+    background-image: url("./imgs/background.avif");
     background-position: center;
     flex: 1 1 0;
 }
